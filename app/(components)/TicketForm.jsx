@@ -145,7 +145,15 @@ function TicketForm({ ticket }) {
           <label>5</label>
         </div>
         <label>Progress</label>
-        <input type="range" id="progress" name="progress" min="0" max="100" />
+        <input
+          type="range"
+          id="progress"
+          name="progress"
+          value={formData.progress}
+          min="0"
+          max="100"
+          onChange={handleChange}
+        />
         <label>Status</label>
         <select name="status" value={formData.status} onChange={handleChange}>
           <option value="not started">Not Started</option>
