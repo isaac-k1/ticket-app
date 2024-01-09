@@ -59,6 +59,7 @@
 
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
+- [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 - [![MongoDB][MongoDB]][MongoDB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,3 +155,5 @@ Project Link: [https://github.com/isaac-k1/ticket-app](https://github.com/isaac-
 [JQuery-url]: https://jquery.com
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
+[TailwindCSS]: https://tailwindcss.com/
+[TailwindCSS-url]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
