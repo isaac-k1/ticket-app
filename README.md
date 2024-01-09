@@ -29,19 +29,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/isaac-k1/ticket-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Ticket Reporting App</h3>
-
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/isaac-k1/ticket-app"><strong>Explore the docs »</strong></a>
+    A global ticket reporting app, built with Next.js, React, and MongoDB. Use this app to create, manage, and delete tickets of varying priority, progress, status, and categories.
     <br />
     <br />
-    <a href="https://github.com/isaac-k1/ticket-app">View Demo</a>
+    <a href="https://ticket-app-bay.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/isaac-k1/ticket-app/issues">Report Bug</a>
     ·
@@ -67,9 +60,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -79,9 +69,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `isaac-k1`, `ticket-app`, `twitter_handle`, `isaac-kwong-847746188`, `email_client`, `email`, `project_title`, `project_description`
+[![Ticket App Screen Shot][product-screenshot]](https://ticket-app-bay.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +116,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-Use this app to manage tickets.
+Use this app to create, manage, and delete tickets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +124,7 @@ Use this app to manage tickets.
 
 ## Contact
 
-Isaac Kwong - email@isaac.code980@gmail.com
+Isaac Kwong - @isaac.code980@gmail.com
 
 Project Link: [https://github.com/isaac-k1/ticket-app](https://github.com/isaac-k1/ticket-app)
 
@@ -146,9 +134,7 @@ Project Link: [https://github.com/isaac-k1/ticket-app](https://github.com/isaac-
 
 ## Acknowledgments
 
-- Project inspired by [ClarityCoders](https://github.com/ClarityCoders/Ticket-Tutorial-App):
-- []()
-- []()
+- Project inspired by [ClarityCoders](https://github.com/ClarityCoders/Ticket-Tutorial-App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +153,7 @@ Project Link: [https://github.com/isaac-k1/ticket-app](https://github.com/isaac-
 [license-url]: https://github.com/isaac-k1/ticket-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isaac-kwong-847746188
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: public/ticket-app.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -184,4 +170,5 @@ Project Link: [https://github.com/isaac-k1/ticket-app](https://github.com/isaac-
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
-[MongoDB-url]: (https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[MongoDB]: (https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[MongoDB-url]: https://www.mongodb.com/
